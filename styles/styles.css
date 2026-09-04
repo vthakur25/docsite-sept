@@ -279,7 +279,7 @@ button.button.accent:disabled:focus-visible {
 }
 
 main img {
-  max-width: 100%;
+  max-width: 80%;
   width: auto;
   height: auto;
 }
